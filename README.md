@@ -23,7 +23,7 @@ Download furppy(CN): https://apps.apple.com/us/app/%E6%AF%9B%E4%BB%94%E6%B4%BE%E
 
 ## Furppy Class
 
-Furppy Class — Dog Breed Guides, Training & Pet Care is the educational arm of the Furppy ecosystem.
+[Furppy Class — Dog Breed Guides, Training & Pet Care is the educational arm of the Furppy ecosystem.](https://class.furppy.life/dog-breeds/beauceron/)
 
 While Furppy helps pet owners explore pet-friendly places and enjoy life with their companions, Furppy Class focuses on helping them become more confident and responsible pet parents through accessible knowledge and practical guidance.
 
