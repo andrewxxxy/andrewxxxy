@@ -21,7 +21,7 @@ Currently serving users in Beijing and Shanghai, with plans to expand through pe
 
 Download furppy(CN): https://apps.apple.com/us/app/%E6%AF%9B%E4%BB%94%E6%B4%BE%E5%AF%B9-furppy-%E9%81%9B%E4%BA%86%E4%B9%88/id6749773297
 
-# Furppy Class
+## Furppy Class
 
 Furppy Class — Dog Breed Guides, Training & Pet Care is the educational arm of the Furppy ecosystem.
 
